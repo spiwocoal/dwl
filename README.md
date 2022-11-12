@@ -1,5 +1,8 @@
 # dwl - dwm for Wayland
 
+# Current patches
+- [vanitygaps](https://github.com/djpohly/dwl/wiki/vanitygaps)
+
 Join us on our [Discord server] or at [#dwl] on irc.libera.chat.
 
 dwl is a compact, hackable compositor for [Wayland] based on [wlroots]. It is
